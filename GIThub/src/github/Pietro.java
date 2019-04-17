@@ -7,6 +7,6 @@ public class Pietro {
         return a*b;
     }
     public class Punkty{
-        int 
+        int a;
     }
 }
